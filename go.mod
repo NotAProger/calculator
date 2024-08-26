@@ -1,3 +1,3 @@
-module projects/Kata_Akademy/calculator
+module calculator
 
 go 1.21.1

@@ -14,5 +14,5 @@ func Read() string {
 }
 
 func Write(s string) {
-	fmt.Print()
+	fmt.Println(s)
 }
